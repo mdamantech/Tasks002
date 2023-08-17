@@ -1,0 +1,43 @@
+<doctype html>
+<html>
+<head>
+<style>
+h1{ text align:centre ;
+     weigth :130px
+     color: red;
+     background-color:orange;
+}
+h3{ 
+    color: red;
+    font size :20px
+    font family:verdana;
+}
+
+img{ border:1px;
+     border radius:5px;
+     padding:5px
+     weigth: 2300px
+     height:320 }
+
+a href{ color:blue ;
+        }
+</style>
+
+<title>first webpage </title>
+<body bgcolor="blue">
+<h1> my demo </h1>
+<h3> Hi,i am md aman. i am 16 year old.i am from bihar in sitamarhi.<p>
+     i am qualified on 10th and now study on diploma in engineering.<p>
+     my hobby are playing cricket and watch cricket and my dream are <p>
+     do big company job. thanks for giving this aportunity to introduce <p>
+     myself.<p>
+
+
+     thank you <p> 
+  
+
+
+<img src="https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fHww&w=1000&q=80" alt height="300" weith="200" > 
+<a href="https://www.manuu.edu.in" > click here />            
+</body>
+</html>
