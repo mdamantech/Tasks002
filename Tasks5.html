@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Boxmodel</title>
+    <style>
+      .container{ 
+      
+      width:600px;
+      padding:20px,20px;
+      margin:auto;
+      border:2px solid red;
+      overflow:hidden;
+     /* clear float*/
+   
+    
+  .content1{
+            clear: both; /* Clear float */
+            border: 2px solid black;
+            margin :10px;
+            padding:10px;
+            background-color:skyblue;
+            
+        }
+        .content2,
+        .content3,
+        .content4{float: left;
+            width: calc(33.33% - 20px); /* Adjust for margins */
+            box-sizing: border-box; /* Include padding in width */
+            border: 2px solid black;
+            background: #ccc;
+            margin :10px;
+            passing:10px;
+            
+        }
+        .content2,
+        .content3,
+        .content4{
+            margin:10px;
+            padding:10px;
+           
+             
+        }
+        .content4{
+            background-color: yellow 
+              
+        }
+        .content2{
+          ;  background-color:green
+        }
+      .content3{
+          background-color:rgb(230,250,220);
+      }
+      
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?</div>
+        <div class="content2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?</div>
+        <div class="content3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?</div>
+        <div class="content4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?</div>
+       
+    </div>
+    
+</body>
+</html>
