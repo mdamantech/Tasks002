@@ -1,0 +1,455 @@
+[28/08, 11:52] Md Aman 🖋️: <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <style>
+
+  .container{ 
+height:13700px;
+width:750px;
+padding:auto;
+margin:auto;
+    background-color:pink;
+border:1px solid grey;
+}
+  
+
+    .container input {
+      color:black;
+      font-size:5px;
+      text-align:center;
+      padding:20px;
+      margin:10px;
+    }
+    .content1{
+      height:60px;
+      width:750px;
+      background-color:rgb(210,240,250);
+    }
+  .content2{
+      height:600px;
+      width:750px;
+      background-color:rgb(210,255,255);
+    padding:1px;
+    }
+    .content3{
+      height:500px;
+      width:750px;
+      background-color:rgb(210,200,180);
+    padding:1px;
+   font-size:20px;  
+   }
+    .content3 botton{
+      border:1px solid rgb(19,28,25);
+      color:skyblue;
+      background-color:rgb(45,75,95)
+    }
+    .content4{
+      height:80px;
+      width:750px;
+      background-color:rgb(50,80,40);   
+   border:1px solid grey;
+      }
+    .content4 h1{
+      text-align:center;
+    }
+    .content5{
+      height:200px;
+      width:355px;
+      background-color:white;   
+      float:right;
+      margin:5px;
+      padding:5px;
+      font-size:15px;
+      
+    }
+    
+    
+    .content6{
+      height:200px;
+      width:355px;
+      background-color:white; 
+      border:0.5px solid white;
+      float:right;
+      margin:5px;
+      padding:5px;
+      font-size:15px;
+    }
+    
+      .content7{
+      height:200px;
+      width:355px;
+      background-color:white;   
+      margin:5px;
+      padding:5px;
+        font-size:15px;
+      
+    }
+    
+    
+       .content8{
+      height:200px;
+      width:355px;
+      background-color:white;   
+   
+      margin:5px;
+        padding:5px; 
+         font-size:15px;}
+      
+    
+    .content7 h2{
+      color:green;
+    }
+  .content8 h2{
+      color:skyblue;
+    text-align:center;
+    }
+    
+    .content5 h2{
+      color:blue;
+    text-align:center;}
+
+      .content6 h2{
+      color:red;
+    text-align:center;
+      }
+    .content9{
+      height:70px;
+      width:750px;
+      background-color:rgb(60,50,40);   
+    }
+    .content10{
+      height:700px;
+      width:750px;
+      background-color:pink;
+    }
+    .content10 h1{
+      font-size:50px;
+      color:grey;
+    }
+    .content10 p{
+      float:bottom;
+      color:grey;
+    }
+    .content10 h2{
+      font-size:50px;
+      color:grey;
+    }
+    .content10 h3{
+      font-size:50px;
+      color:grey;
+    }
+    .content10 h4{
+      font-size:50px;
+      color:grey;
+    }
+      .content11{
+      height:70px;
+      width:750px;
+      background-color:pink;}
+    .content12{
+      height:300px;
+      width:360px;
+      background-color:white;
+      float:right;
+      margin:4px;
+      padding:2px;
+      
+    }
+    .content13{
+      height:300px;
+      width:360px;
+      background-color:white;
+      float:bottom;
+      margin:4px;
+      padding:2px;
+      
+    }
+    .content14{
+      height:100px;
+      width:750px;
+      background-color:blue;}
+    
+    .content15{
+      height:100px;
+      width:750px;
+      background-color:rgb(70,110,180);}
+    .content16{
+      height:100px;
+      width:750px;
+      background-color:rgb(120,240,180);}
+    
+    .content17{
+      height:4550px;
+      width:750px;
+      background-color:white;}
+    .content18{
+      height:80px;
+      width:750px;
+      background-color:rgb(230,180,120);}
+  .content19{
+      height:300px;
+      width:235px;
+      background-color:pink;
+  float:right;
+    border:0.5px solid grey;
+    margin:2px;
+    padding:5px;
+    font-size:15px;
+    
+  }
+    .content20{
+    height:300px;
+      width:235px;
+      background-color:pink;
+  float:right;
+      border:0.5px solid grey;
+    margin:2px;
+    padding:4px;
+      font-size:15px;
+    }
+    .content21{
+    height:300px;
+      width:235px;
+      background-color:pink;
+  float:right;
+      border:0.5px solid grey;
+    margin:2px;
+      padding:4px;
+      font-size:15px;
+  }
+    .content22{
+    height:150px;
+      width:750px;
+      background-color:rgb(45,80,60);
+      float:left;
+      font-size:20px;
+ }
+    .content23{
+    height:150px;
+      width:750px;
+      background-color:white;
+font-size:30px;
+    
+      
+    }
+    .content23 h1{
+      color:red;
+    }
+.content24 {
+      height:500px;
+  width:750px;
+  background-color:grey;
+}
+    .content25 {
+      height:1700px;
+  width:750px;
+  background-color:white;
+padding:5px;
+      
+    
+    }
+
+    
+      .content25  img src{
+    text-align:center;}
+  
+   </style>   
+   </head>
+<body>
+    <div class="container">  
+      <h2 style=" text-align:center;"> Admissions are open for session 2023-24& summ camp </h2>
+      
+      <input type ="Name" value="Name"style="text-align:center";> 
+      <input type ="phone" value="phone" style="text-align:center";> 
+      <input type ="Submit" value="Submit" style="text-align:center";>
+      
+      <div class ="content1">
+    </div>
+      
+    <div class ="content2">
+      <h3 style="text-align:center;">
+     <body>
+    <div class="container">  
+      <h2 style=" text-align:center;"> Admissions are open for session 2023-24& summ camp </h2>
+      
+      <input type ="Name" value="Name"style="text-align:center";> 
+      <input type ="phone" value="phone" style="text-align:center";> 
+      <input type ="Submit" value="Submit" style="text-align:center";>
+      
+      <div class ="content1">
+    </div>
+      
+    <div class ="content2">
+      <h3 style="text-align:center;"> Welcome To Best Playschool In Dwarka Sector 12 Delhi Jr. Navayandhra School </h3>
+      <img src="IMG_20230823_132116.jpg" width="750" height="400">
+    First Name:<input type="text" value=" First Name">
+      Last Name:<input type="text" value=" Last Name">
+  Phone*:<input type="text" value=" Phone">
+      Email id fir:<input type="text" value=" Email id fir">
+      comt & mesge:<input type="text" value="comment & message">
+      Sub:<input type="text" value=" Sub">
+    </div>
+      <div class ="content3">
+        Jr. Navyandhra School (Best Day Care School in Dwarka Sector-12) is one of the most promising educational institutions in Delhi, working towards its mission of making the way to ko the future wider, full of opportunities, and illuminated for young minds and believing that education is much more than merely completing a syllabus and preparing children for examinations. We are Asia’s first 21st-century achievement centre for kids and parents, catering to both local and expat families. Our school is an endeavour of the intelligentsia of the society who have till now contributed towards honing the creative capabilities of young children. The school foundation is based on the trinity of 3S – Shiksha, Sanskar, and Security. To top everything mentioned above, the school offers an Afterschool Program of tutoring and co-curricular activities with a rich menu on the platter
+       <botton style="text-align:center;"> Read more </botton> 
+      <img src="IMG_20230823_154853.jpg" width="750" height="300">
+        
+      <div class="content4">
+        <h1 style="text-align:center;"> Our Programs </h1>
+      </div>
+        <div class="content5"> 
+          <img src="new-logo.jpg"  width="357" height="60">
+       <h2> Day Care </h2>  
+          Our daycare activities include tuition classes and extracurricular activities, along with communication and personality development training for students.
+        </div>   
+     <div class="content6">
+   <img src="new-logo.jpg"  width="357" height="60">
+       <h2> Activities </h2>
+       Navyandhra’s Clubs and activities include music, dance and instruments classes, computer classes, self-defence, skating and swimming classes for students.
+     </div>  
+<div class="content7">
+  <img src="new-logo.jpg" width="357" height="60" >
+  <h2 style="text-align:center;"> Preschool  </h2>
+  Navyandhra’s Preschooling curriculum is highly dedicated to building key developmental habits in students, which can help them in a long run.
+</div>
+        <div class="content8">
+<img src="new-logo.jpg" width="355" height="60">
+          <h2> School </h2>
+          We offer interactive and dynamic learning at our school from nursery to 8th. We use an interactive strategy of teaching in accordance with National Education Policy.
+          
+</div> 
+        <div class ="content9">
+          <h1 style="text-align:center;"> Our School At Glance </h1>
+          
+        </div> 
+        <div class="content10">
+          <h1 style="text-align:center;"> 1:18 </h1>
+          <p style="text-align:center;"> Teacher Ratio </p>
+          <h2 style="text-align:center;">  100% </h2>
+          
+       <p style="text-align:center;">  Nep Curriculum </p>  
+         <h3 style="text-align:center;" > 35 </h3>
+          <p style="text-align:center;"> Year Of Exclellence </p>
+       <h4 style="text-align:center;"> 100% </h4>
+          <p style="text-align:center;"> Focus On Student's Grouth </p>
+       <div class="content11">
+          <h1 style="text-align:center;"> Notification Board </h1>
+          </div>
+        <div class="content12">
+          <h1 style="text-align:center;"> School Events </h1>
+          <p> 
+          
+          We are proud to tell you that our school has organised a welcome orientation on 3 of april.
+
+School organised graduation ceremony on 21st March 2023.
+          
+          </p>
+          </div>
+            <div class="content13">
+              <h1 style="text-align:center;"> Announcement </h1>
+           </p>
+             <p> We want you all to know that admissions for the session 2023-24 is going on for limited seats till 31st May. Interested candidates or their parents can fill out the form.
+
+All candidates and their parents are recommended to read our admission policy available on our website. </p>
+              
+          </div>
+        <div class="content14">
+          <h1 style="text-align:center;"> 
+
+            
+Learning is a treasure that will follow its owner everywhere.
+          </h1>
+        </div>
+          
+   <div class="content15">
+
+   </div>
+        <div class="content16">
+        <h1 style="text-align:center;">  A DAY AT JUNIOR NAVYANDHRA SCHOOL </h1>
+   </div>
+        <div class="content17">
+          <img src="IMG_20230826_073855.jpg" height="400" width="750">
+          
+          <h1 style="text-align:center;">  Arrival </h1>
+          <img src="IMG_20230826_074902.jpg" height="400" width="750">
+          <h1 style="text-align:center;">  Assembly </h1>
+          
+          <img src="IMG_20230826_075529.jpg" height="400" width="750">
+          <h1 style="text-align:center;">  Circle Time </h1>
+          <img src="IMG_20230826_080235.jpg" height="400" width="750">
+          <h1 style="text-align:center;"> Curricular Activities  </h1>
+          <img src="IMG_20230826_080649.jpg" height="400" width="750">
+          <h1 style="text-align:center;"> Snack Break </h1>
+          <img src="IMG_20230826_081120.jpg" height="400" width="750">
+          <h1 style="text-align:center;"> Outdoor Activity </h1>
+<img src="IMG_20230826_081643.jpg" height="400" width="750">
+          <h1 style="text-align:center;"> Exploring Learning Center</h1>
+          <img src="IMG_20230826_081920.jpg" height="400" width="750">
+          <h1 style="text-align:center;"> Hygiene & Safety Check </h1>
+          <img src="IMG_20230826_141656.jpg" height="400" width="750">
+          <h1 style="text-align:center;"> Safe Dispersal </h1>
+        </div>
+        <div class="content18">
+      <h1 style="text-align:center;">  PARENTS AND RELATIVE REVIEWS </h1>
+        </div>
+        <div class="content19">
+        This playschool has been according to my expectations. The facilities are clean and modern, and there is a strong emphasis on health and safety. The teachers are highly qualified and provide engaging and stimulating activities for the children. I feel confident that my child is in good hands.
+	<img src="IMG_20230826_150122.jpg" height="80" width="235">
+
+          </div>
+        
+        <div class="content20">
+         I am so impressed with the level of education my brother is receiving at this school. He is in class 4. The facilities are top-notch and the extracurricular programs are amazing.
+          <img src="IMG_20230826_150902.jpg" height="80" width="235">
+          
+        </div>
+        <div class="content21">
+          jr navyandhra school has been a great fit for my child. It's the best daycare school in dwarka area. The teachers are engaging and the facilities are modern and well-equipped. I especially appreciate the focus on building self improvement streategy and innovative learning techniques in students.
+        <img src="IMG_20230826_151128.jpg" height="80" width="235">
+        </div>
+          
+          
+        <div class="content22">
+          <h1 style="text-align:center;"> Hoto Gallery </h1>
+        
+          
+   
+        
+      <img src="IMG_20230827_055700.jpg" height="400" width="750">
+          <img src="IMG_20230827_061059.jpg" height="400" width="750">
+          <img src="IMG_20230827_061416.jpg" height="400" width="750">
+          <img src="IMG_20230827_061618.jpg" height="400" width="750">
+          <img src="IMG_20230827_061909.jpg" height="400" width="750">
+         <img src="IMG_20230827_061923.jpg" height="400" width="750">
+          <img src="IMG_20230827_061952.jpg" height="400" width="750">
+         
+        <div class="content23">
+          <h1 style="text-align:center;"> View More<< </h1>
+          </div> 
+        <div class="content24">
+          <img src="IMG_20230827_065637.jpg" height="400" width="750">
+          </div> 
+          <div class="content25">
+            <img src ="IMG_20230824_081949.jpg" height="150" width="750">
+           <h1 Style="font-size:25px;"> The Navyandhra Play School is nestled in the residential hub of Dwarka. The school is an endeavour of the intelligentsia of the society who have till now contributed towards honing the creative capabilities in young children.Now they are ready to step into the sphere of formal education.</h1>
+            <h1 style ="text-align:center;"> CONTACT US </h1> <br>
+            <h1 style ="text-align:center;"> Phone:+91-5456XXXXXXX </h1> <br>
+            <h1 style ="text-align:center;">      Address :<br>
+Sector-12, Dwarka, New Delhi 11007 <br>
+         <h1 style ="text-align:center;">  E-mail-id:nadim@06666.com </h1> <br>
+         <h1 style ="text-align:center;"> Our Links </h1> <br>
+         <h1 style ="text-align:center;"> ABOUT US </h1> <br>
+         <h1 style ="text-align:center;"> OUR PROGRAMS </h1> <br>
+         <h1 style ="text-align:center;"> ADDMISSION </h1> <br>
+         <h1 style ="text-align:center;"> BLOG </h1> <br>
+         <h1 style ="text-align:center;"> CONTACT </h1> <br>
+          <h3>  Privacy Police I Contact Us Blogs</h3>
+            </div> 
+          
+          
+</body    
+</html>
